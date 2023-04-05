@@ -1,6 +1,7 @@
 ﻿namespace Task_8;
 
-public class SimpleVacuumCleaner
+public class SimpleVacuumCleaner:VacuumCleaner
 {
+    
     
 }
